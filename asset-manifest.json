@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mirudapp/static/css/main.a7c02b44.css",
-    "main.js": "/mirudapp/static/js/main.88e1266c.js",
-    "static/js/787.0edbcda9.chunk.js": "/mirudapp/static/js/787.0edbcda9.chunk.js",
-    "index.html": "/mirudapp/index.html",
-    "main.a7c02b44.css.map": "/mirudapp/static/css/main.a7c02b44.css.map",
-    "main.88e1266c.js.map": "/mirudapp/static/js/main.88e1266c.js.map",
-    "787.0edbcda9.chunk.js.map": "/mirudapp/static/js/787.0edbcda9.chunk.js.map"
+    "main.css": "/project/static/css/main.a7c02b44.css",
+    "main.js": "/project/static/js/main.319730c6.js",
+    "static/js/787.0edbcda9.chunk.js": "/project/static/js/787.0edbcda9.chunk.js",
+    "index.html": "/project/index.html",
+    "main.a7c02b44.css.map": "/project/static/css/main.a7c02b44.css.map",
+    "main.319730c6.js.map": "/project/static/js/main.319730c6.js.map",
+    "787.0edbcda9.chunk.js.map": "/project/static/js/787.0edbcda9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a7c02b44.css",
-    "static/js/main.88e1266c.js"
+    "static/js/main.319730c6.js"
   ]
 }
