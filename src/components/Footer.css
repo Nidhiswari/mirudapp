@@ -1,0 +1,39 @@
+.footer {
+    color: rgba(247, 10, 10, 0.551);
+    background: rgb(73, 47, 47);
+    padding: 10px 0 10px 0;
+  }
+  
+  .footer_col {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin: 5px;
+  }
+  
+  .footer_row ul {
+    
+    display: flex;
+    list-style: none;
+    width: 100vw;
+    justify-content: space-around;
+  }
+  .footer_row ul li {
+    margin: 3px;
+  
+    color:rgba(255, 255, 0, 0.932);
+  }
+  
+  
+  
+  
+  
+  #footer_cp_text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+ 
+  
+  
